@@ -23,12 +23,7 @@
 [冬優ちゃん](https://www.fuibafuyu.top/ "小萝莉，点击调戏" )
 [纳兰音韵](https://nalanyinyun.ml/)
 [瑟瑟站点](https://hentai.nalanyinyun.ml/ "硬核瑟瑟" )
-
-
-
-<div align="center">
-  <img src="https://api.xhofe.top/ip/?line1=Welcome！&amp;line2=nalanyinyun.ml" />
-</div>  
+ 
 
 <script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>
 <script>
