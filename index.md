@@ -1,6 +1,6 @@
 ## Welcome to hhhge's Website
 ### Music  
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1905088707&auto=0&height=66"></iframe>  
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=399249&auto=1&height=66"></iframe>
 ### 一言
 <span id="jinrishici-sentence"></span>
 <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>  
