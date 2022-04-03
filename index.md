@@ -29,7 +29,7 @@
             "vOffset": -20
         },
         "mobile": {
-            "show": false, //是否在移动端显示
+            "show": true, //是否在移动端显示
             "scale": 0.5
         },
         "react": {
