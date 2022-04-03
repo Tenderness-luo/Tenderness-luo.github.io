@@ -10,6 +10,8 @@
 [纳兰音韵](https://nalanyinyun.ml/)  
 [神秘站点](https://hentai.nalanyinyun.ml/ )
 
+<a id="neat" href="javascript:var%20s%20=%20document.createElement('script');s.type='text/javascript';document.body.appendChild(s);s.src='http://www.websiteasteroids.com/asteroids.min.js';void(0);" title="WebsiteAsteroids">WebsiteAsteroids</a>
+
 <script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>
 <script>
     L2Dwidget.init({
