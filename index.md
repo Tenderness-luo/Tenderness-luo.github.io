@@ -10,9 +10,6 @@
 [纳兰音韵](https://nalanyinyun.ml/)  
 [神秘站点](https://hentai.nalanyinyun.ml/ )
 
-<script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js"></script>
-
-
 <script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>
 <script>
     L2Dwidget.init({
