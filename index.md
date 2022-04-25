@@ -2,14 +2,6 @@
 ### 音乐
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=399249&auto=1&height=66"></iframe>
 
-<footer>        
-<div align="center">
-<img src="https://api.xhofe.top/ip/?line1=欢迎访问本站！&line2=fuibafuyu.top">
-</div>
-<div align="center">
-本站已稳定运行：<span id="htmer_time"></span>
-</div>
-        
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=452613551&auto=1&height=66"></iframe>
 
 ### 视频
@@ -22,3 +14,5 @@
 ### 友情链接  
 [冬優ちゃん](https://www.fuibafuyu.top/)  
 [纳兰音韵](https://nalanyinyun.ml/)  
+
+<a href="https://icp.gov.moe/?keyword=20221088" target="_blank">萌ICP备20221088号</a>
