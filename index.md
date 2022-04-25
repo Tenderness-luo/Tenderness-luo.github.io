@@ -15,11 +15,7 @@
 [冬優ちゃん](https://www.fuibafuyu.top/)  
 [纳兰音韵](https://nalanyinyun.ml/)  
 
-<a href="https://icp.gov.moe/?keyword=20221088" target="_blank">萌ICP备20221088号</a>
-
-<div>
-  <img src="https://api.xhofe.top/ip/?line1=Welcome！&amp;line2=nalanyinyun.ml" />
-</div>  
+<a href="https://icp.gov.moe/?keyword=20221088" target="_blank">萌ICP备20221088号</a>  
 
 <script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>
 <script>
