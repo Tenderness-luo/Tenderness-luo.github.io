@@ -16,3 +16,37 @@
 [纳兰音韵](https://nalanyinyun.ml/)  
 
 <a href="https://icp.gov.moe/?keyword=20221088" target="_blank">萌ICP备20221088号</a>
+
+<div>
+  <img src="https://api.xhofe.top/ip/?line1=Welcome！&amp;line2=nalanyinyun.ml" />
+</div>  
+
+<script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>
+<script>
+    L2Dwidget.init({
+        "model": {
+　　　　　　　//jsonpath控制模型，这个是z16，蛮可爱的
+            jsonPath: "https://unpkg.com/live2d-widget-model-z16@1.0.5/assets/z16.model.json",
+            "scale": 1
+        },
+        "display": {
+            "position": "left", //看板娘的表现位置
+            "width": 150,  //宽度
+            "height": 250, //高度
+            "hOffset": 0,
+            "vOffset": -20
+        },
+        "mobile": {
+            "show": false, //是否在移动端显示
+            "scale": 0.5
+        },
+        "react": {
+            "opacityDefault": 0.7,
+            "opacityOnHover": 0.2
+        }
+    });
+</script>  
+
+### COVID-19 新型冠状病毒 信息统计
+<iframe src="https://cn.bing.com/covidans/widget?&setlang=zh-CN&lcid=/TaiWan&mt=Map" height="545" frameborder="no" scrolling="no" border="0" width="100%"> </iframe>   
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
