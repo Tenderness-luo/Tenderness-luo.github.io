@@ -41,6 +41,6 @@
 
 ### COVID-19 新型冠状病毒 信息统计
 
-<div class="bingwidget" data-type="covid19" data-market="zh-cn" data-language="zh-cn"></div>
-
+<div class="bingwidget" data-type="covid19" data-market="en-us" data-language="en-us"></div>
+  
 <script src="//www.bing.com/widget/bootstrap.answer.js" async=""></script>
