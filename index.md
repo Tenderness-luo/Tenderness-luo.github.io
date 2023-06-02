@@ -13,6 +13,17 @@
 [冬優ちゃん](https://fuibafuyu.net/)  
 [纳兰音韵](https://nalanyinyun.top/)  
 
+### 笑话
+“我手机不开机了咋整啊”  
+“什么表现，怎么搞的，你最近干什么了”  
+“我不到啊，手机放那自己砖了”    
+
+
+
+<div>
+  <img src="https://api.xhofe.top/ip/?line1=Welcome！&amp;line2=nalanyinyun.ml" />
+</div>  
+
 <script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>
 <script>
     L2Dwidget.init({
@@ -40,3 +51,5 @@
 </script>  
 
 ### COVID-19 新型冠状病毒 信息统计
+<iframe src="https://cn.bing.com/covidans/widget?&setlang=zh-CN&lcid=/TaiWan&mt=Map" height="545" frameborder="no" scrolling="no" border="0" width="100%"> </iframe>   
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
