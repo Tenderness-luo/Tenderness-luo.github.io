@@ -18,12 +18,6 @@
 “什么表现，怎么搞的，你最近干什么了”  
 “我不到啊，手机放那自己砖了”    
 
-
-
-<div>
-  <img src="https://api.xhofe.top/ip/?line1=Welcome！&amp;line2=nalanyinyun.ml" />
-</div>  
-
 <script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>
 <script>
     L2Dwidget.init({
