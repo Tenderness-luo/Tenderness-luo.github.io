@@ -10,8 +10,8 @@
 <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>  
 
 ### 友情链接  
-[冬優ちゃん](https://www.fuibafuyu.top/)  
-[纳兰音韵](https://nalanyinyun.ml/)  
+[冬優ちゃん](https://fuibafuyu.net/)  
+[纳兰音韵](https://nalanyinyun.top/)  
 
 <script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>
 <script>
