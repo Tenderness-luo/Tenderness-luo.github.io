@@ -1,4 +1,4 @@
-## Welcome to hhhge's Website
+## 欢迎来到姚的网站
 ### 音乐
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1970486381&auto=0&height=66"></iframe>
 
@@ -17,6 +17,8 @@
 “我手机不开机了咋整啊”  
 “什么表现，怎么搞的，你最近干什么了”  
 “我不到啊，手机放那自己砖了”    
+
+# dlyn不要狗叫
 
 ### 我的zsj嘿嘿嘿
 
