@@ -20,7 +20,7 @@
 
 # dlyn不要狗叫
 
-### 我的zsj嘿嘿嘿
+### 可爱洁
 
 <script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>
 <script>
