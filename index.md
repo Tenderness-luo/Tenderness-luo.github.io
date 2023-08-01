@@ -1,2 +1,2 @@
 # zsj的照片墙
-<img src="ryplf3zis.hn-bkt.clouddn.com/1.png"/>
+<img src="https://github.com/Tenderness-luo/Tenderness-luo.github.io/blob/gh-pages/1.png"/>
