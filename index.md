@@ -45,9 +45,9 @@
 ### 友情链接  
 [冬優ちゃん](https://fuibafuyu.net/)  
 [纳兰音韵](https://nalanyinyun.top/)  
-[神代綺凛の随波逐流](https://moe.best/)
-[次元api](https://t.mwm.moe/)
-[小工具箱](https://lolicon.dev/)
+[神代綺凛の随波逐流](https://moe.best/) 
+[次元api](https://t.mwm.moe/) 
+[小工具箱](https://lolicon.dev/) 
 
 ### 笑话
 “我手机不开机了咋整啊”  
