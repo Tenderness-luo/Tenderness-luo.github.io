@@ -1,2 +1,2 @@
 # zsj的照片墙
-<img scr="1.png">
+<img src="ryplf3zis.hn-bkt.clouddn.com/1.png"/>
