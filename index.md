@@ -1,11 +1,32 @@
 ## 欢迎来到姚的网站
 
 <style>
-        body {
-            background-image: url("https://res.lolicon.app/bilibili/bg.png");
-            background-repeat: no-repeat;
-            background-size: cover;
-        }
+        html:not([stylus-iframe]) body {
+		background-image: none !important
+	}
+	html:not([stylus-iframe]) body:before {
+		content: "";
+		position: fixed;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		z-index: -100;
+		background-image: url(https://res.lolicon.app/bilibili/bg.png);
+		background-position: center bottom;
+		background-size: cover;
+		background-attachment: fixed;
+		background-repeat: no-repeat;
+	}
+	@media screen and (max-width: 1650px) {
+		html:not([stylus-iframe]) body:before {
+			background-image: url(https://res.lolicon.app/bilibili/bg_small.png);
+		}
+	}
+	.footer-wrp,
+	.international-footer {
+		background-color: transparent !important;
+	}
 </style>
 
 ### 音乐
