@@ -37,28 +37,29 @@
 
 ### 图片
 <img src="https://t.mwm.moe/pc">
+
 <div id="image-container"></div>
 
 <script>
-	// API请求URL
-	const apiUrl = 'https://api.lolicon.app/setu/v2?excludeAI=true';
+  // API请求URL
+  const apiUrl = 'https://api.lolicon.app/setu/v2?excludeAI=true';
 
-	// 使用fetch请求API数据
-	fetch(apiUrl)
-	.then(response => response.json())
-	.then(data => {
-	// 从返回值中提取图片地址
-	const imageUrl = data.data[0].urls.original;
+  // 使用fetch请求API数据
+  fetch(apiUrl)
+    .then(response => response.json())
+    .then(data => {
+      // 从返回值中提取图片地址
+      const imageUrl = data.data[0].urls.original;
 
-	// 创建一个img标签来显示图片
-	const imgTag = document.createElement('img');
-	imgTag.src = imageUrl;
+      // 创建一个img标签来显示图片
+      const imgTag = document.createElement('img');
+      imgTag.src = imageUrl;
 
-	// 将img标签添加到页面中的image-container div中
-	const imageContainer = document.getElementById('image-container');
-	imageContainer.appendChild(imgTag);
-      })
-	.catch(error => console.error('发生错误：', error));
+      // 将img标签添加到页面中的image-container div中
+      const imageContainer = document.getElementById('image-container');
+      imageContainer.appendChild(imgTag);
+    })
+    .catch(error => console.error('发生错误：', error));
 </script>
 
 ### 一言
