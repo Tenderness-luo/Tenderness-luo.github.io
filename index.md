@@ -27,10 +27,6 @@
 “什么表现，怎么搞的，你最近干什么了”  
 “我不到啊，手机放那自己砖了”    
 
-# dlyn不要狗叫
-
-### 可爱洁
-
 <script src="https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js"></script>
 
 ### COVID-19 新型冠状病毒 信息统计
